@@ -1,5 +1,4 @@
 package main
-
 import (
 	"github.com/zasy/observer"
 	"time"
